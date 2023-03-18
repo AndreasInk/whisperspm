@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "whisper.spm",
+    name: "whisperspm",
     products: [
         .library(
             name: "whisper",
